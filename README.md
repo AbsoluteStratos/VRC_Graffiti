@@ -9,6 +9,7 @@
 <div align="center">
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Latest VRC SDK version tested. Future/Backward compatability likley, but not officially supported](https://img.shields.io/badge/VRChat%20SDK-3.1.13-blue)](https://docs.vrchat.com/docs/choosing-your-sdk)
 [![Github Stars](https://img.shields.io/github/stars/AbsoluteStratos/VRC_Graffiti)](https://github.com/AbsoluteStratos/VRC_Graffiti)
 [![Repository Liscens: MIT](https://img.shields.io/github/license/AbsoluteStratos/VRC_Graffiti)](https://github.com/AbsoluteStratos/VRC_Graffiti/blob/main/LICENSE)
 
@@ -62,6 +63,9 @@ If you're on a popular world where it doesnt work, drop a comment on the [open i
 Its poor because theres a inactive light in the prefab. This light allows the graffiti to work across VRC worlds, but is not essential. 
 The light, "DepthLight", can be removed but at the cost of limiting functionality of the graffiti to only work on some worlds (e.g. this will break things on maps like The Black Cat or The Great Pug).
 
+| Does this work for VRC SDK version xx.xx.xx?
+
+Odds are yes, the shield up to indicates which verion I have personally tested but compatability with newer/older versions is very likely but not "officially" supported.
 
 
 ## Contact / Support
