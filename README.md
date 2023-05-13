@@ -10,7 +10,6 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Latest VRC SDK version tested. Future/Backward compatability likley, but not officially supported](https://img.shields.io/badge/VRChat%20SDK-3.1.13-blue)](https://docs.vrchat.com/docs/choosing-your-sdk)
-[![Github Stars](https://img.shields.io/github/stars/AbsoluteStratos/VRC_Graffiti)](https://github.com/AbsoluteStratos/VRC_Graffiti)
 [![Repository Liscens: MIT](https://img.shields.io/github/license/AbsoluteStratos/VRC_Graffiti)](https://github.com/AbsoluteStratos/VRC_Graffiti/blob/main/LICENSE)
 
 </div>
@@ -42,7 +41,21 @@ The installation of the VRC graffiti can is simple!
 If you already have some custom controls / animations, adjust step 5 accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu).
 
 ## Controls
+<div align="center">
 
+![](./docs/controls_banner.png)
+
+</div>
+
+With the graffiti can active, use the following gesture controls (any hand):
+
+<div align="center">
+
+| Toggle Guide (Point)     | Apply Tag (Thumbs Up) |
+| ----------- | ----------- |
+| ![](./docs/gesture1.png)      | ![](./docs/gesture2.png)       |
+
+</div>
 
 ## Customize
 
@@ -57,7 +70,7 @@ Customizing your tags takes only three steps:
 | Does this work in any VRC world on any object?
 
 *Generally* speaking yes, but not transparent objects. Anything that with a opaque materials should work fine.
-This will just not work in some worlds though.
+This is also completely not functional in some worlds though.
 If you're on a popular world where it doesnt work, drop a comment on the [open issue](https://github.com/AbsoluteStratos/VRC_Graffiti/issues/1) with the world name.
 
 | Why does it make my avatar poor? Is there a way to get around this?
