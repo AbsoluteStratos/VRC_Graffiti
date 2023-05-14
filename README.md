@@ -42,7 +42,7 @@ The installation of the VRC graffiti can is simple!
     * Expression parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
     * FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
 
-If you already have some custom controls / animations, adjust step 5 accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu).
+If you already have some custom controls / animations, adjust last step accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu). I'm assuming you know what you're doing.
 
 ## Controls
 <div align="center">
