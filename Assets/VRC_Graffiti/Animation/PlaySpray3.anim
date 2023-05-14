@@ -33,8 +33,27 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
       Source 3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: 
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -46,7 +65,14 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 4017161859
+      path: 3983279006
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
@@ -90,8 +116,27 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
       Source 3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: 
     classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves: []

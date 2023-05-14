@@ -33,7 +33,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Active
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag1
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag1
     classID: 1773428102
     script: {fileID: 0}
   - curve:
@@ -52,7 +52,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Active
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag1
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag1
     classID: 1818360610
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -64,14 +64,14 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1998258432
+      path: 1413905574
       attribute: 4294967287
       script: {fileID: 0}
       typeID: 1773428102
       customType: 35
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1998258432
+      path: 1413905574
       attribute: 4294967290
       script: {fileID: 0}
       typeID: 1818360610
@@ -115,7 +115,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Active
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag1
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag1
     classID: 1773428102
     script: {fileID: 0}
   - curve:
@@ -134,7 +134,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Active
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag1
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag1
     classID: 1818360610
     script: {fileID: 0}
   m_EulerEditorCurves: []

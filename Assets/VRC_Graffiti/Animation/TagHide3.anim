@@ -33,7 +33,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag3
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -52,7 +52,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Active
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag3
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
     classID: 1773428102
     script: {fileID: 0}
   - curve:
@@ -71,7 +71,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Active
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag3
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
     classID: 1818360610
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -83,21 +83,21 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 2568314924
+      path: 3125288330
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2568314924
+      path: 3125288330
       attribute: 4294967287
       script: {fileID: 0}
       typeID: 1773428102
       customType: 35
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2568314924
+      path: 3125288330
       attribute: 4294967290
       script: {fileID: 0}
       typeID: 1818360610
@@ -141,7 +141,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag3
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -160,7 +160,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Active
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag3
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
     classID: 1773428102
     script: {fileID: 0}
   - curve:
@@ -179,7 +179,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Active
-    path: VRCGraffiti/GraffitiAnchor/Tags/DecalTag3
+    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
     classID: 1818360610
     script: {fileID: 0}
   m_EulerEditorCurves: []

@@ -33,7 +33,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
       Source 1
     classID: 1
     script: {fileID: 0}
@@ -53,7 +53,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
       Source 2
     classID: 1
     script: {fileID: 0}
@@ -73,7 +73,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
       Source 3
     classID: 1
     script: {fileID: 0}
@@ -93,7 +93,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Complete
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Complete
       Source
     classID: 1
     script: {fileID: 0}
@@ -106,28 +106,28 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 25126831
+      path: 56779442
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2557883925
+      path: 2590716680
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 4017161859
+      path: 3983279006
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3323938359
+      path: 2770024427
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
@@ -171,7 +171,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
       Source 1
     classID: 1
     script: {fileID: 0}
@@ -191,7 +191,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
       Source 2
     classID: 1
     script: {fileID: 0}
@@ -211,7 +211,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
       Source 3
     classID: 1
     script: {fileID: 0}
@@ -231,7 +231,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRCGraffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Complete
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Complete
       Source
     classID: 1
     script: {fileID: 0}
