@@ -84,7 +84,7 @@ The light, "DepthLight", can be removed but at the cost of limiting functionalit
 
 | Does this work for VRC SDK version xx.xx.xx?
 
-Odds are yes, the shield up to indicates which verion I have personally tested but compatability with newer/older versions is very likely but not "officially" supported.
+Odds are yes, the shield up top indicates which verion I have personally tested but compatability with newer/older versions is very likely but not "officially" supported.
 
 
 ## Contact / Support
