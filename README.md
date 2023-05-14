@@ -80,7 +80,7 @@ If you're on a popular world where it doesnt work, drop a comment on the [open i
 | Why does it make my avatar poor? Is there a way to get around this?
 
 Its poor because theres a inactive light in the prefab. This light allows the graffiti to work across VRC worlds, but is not essential. 
-The light, "DepthLight", can be removed but at the cost of limiting functionality of the graffiti to only work on some worlds (e.g. this will break things on maps like The Black Cat or The Great Pug).
+The light, "DepthLight", can be removed but at the cost of limiting functionality of the graffiti to a much smaller number of VRC worlds (e.g. this will break things on maps like The Black Cat or The Great Pug).
 
 | Does this work for VRC SDK version xx.xx.xx?
 
