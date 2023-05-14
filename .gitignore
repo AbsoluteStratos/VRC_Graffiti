@@ -73,4 +73,5 @@ crashlytics-build.properties
 
 /Blender
 /Assets/Avatar_Model
-/Packages/com.*
+/[Pp]ackages/com.*/*
+/[Pp]rojectSettings/

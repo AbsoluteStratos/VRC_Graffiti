@@ -36,44 +36,6 @@ AnimationClip:
     path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
     classID: 1
     script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Active
-    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
-    classID: 1773428102
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Active
-    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
-    classID: 1818360610
-    script: {fileID: 0}
   m_PPtrCurves: []
   m_SampleRate: 60
   m_WrapMode: 0
@@ -88,20 +50,6 @@ AnimationClip:
       script: {fileID: 0}
       typeID: 1
       customType: 0
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3125288330
-      attribute: 4294967287
-      script: {fileID: 0}
-      typeID: 1773428102
-      customType: 35
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3125288330
-      attribute: 4294967290
-      script: {fileID: 0}
-      typeID: 1818360610
-      customType: 33
       isPPtrCurve: 0
     pptrCurveMapping: []
   m_AnimationClipSettings:
@@ -143,44 +91,6 @@ AnimationClip:
     attribute: m_IsActive
     path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
     classID: 1
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Active
-    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
-    classID: 1773428102
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Active
-    path: VRC_Graffiti/GraffitiAnchor/Tags/DecalTag3
-    classID: 1818360610
     script: {fileID: 0}
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
