@@ -11,7 +11,7 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Latest VRC SDK version tested. Future/Backward compatability likley, but not officially supported](https://img.shields.io/badge/VRChat%20SDK-3.1.13-blue)](https://docs.vrchat.com/docs/choosing-your-sdk)
 [![Performance rating this prefab will have on your VRC avatar.](https://img.shields.io/badge/Avatar%20Performance-Poor-orange)](https://docs.vrchat.com/docs/avatar-performance-ranking-system)
-[![Repository Liscens: MIT](https://img.shields.io/github/license/AbsoluteStratos/VRC_Graffiti)](https://github.com/AbsoluteStratos/VRC_Graffiti/blob/main/LICENSE)
+[![Repository Liscense: MIT](https://img.shields.io/github/license/AbsoluteStratos/VRC_Graffiti)](https://github.com/AbsoluteStratos/VRC_Graffiti/blob/main/LICENSE)
 
 </div>
 
