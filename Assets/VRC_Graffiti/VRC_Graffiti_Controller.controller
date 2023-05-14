@@ -57,6 +57,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 6
     m_ConditionEvent: GestureLeft
     m_EventTreshold: 7
+  - m_ConditionMode: 1
+    m_ConditionEvent: Graffiti Toggle
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -7770568070191170902}
   m_Solo: 0
@@ -644,6 +647,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 6
     m_ConditionEvent: GestureLeft
     m_EventTreshold: 7
+  - m_ConditionMode: 1
+    m_ConditionEvent: Graffiti Toggle
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -8459345721556524658}
   m_Solo: 0

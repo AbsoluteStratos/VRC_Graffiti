@@ -1,0 +1,67 @@
+{
+  "dependencies": {
+    "com.vrchat.avatars": {
+      "version": "3.1.13"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.18"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.8.3"
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.20"
+    },
+    "vrchat.jordo.easyquestswitch": {
+      "version": "1.2.1"
+    },
+    "dev.onevr.vrworldtoolkit": {
+      "version": "2.1.4"
+    },
+    "com.llealloo.audiolink": {
+      "version": "0.3.2"
+    }
+  },
+  "locked": {
+    "com.vrchat.avatars": {
+      "version": "3.2.0",
+      "dependencies": {
+        "com.vrchat.base": "3.2.0"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.2.0",
+      "dependencies": {}
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.18",
+      "dependencies": {}
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.8.4",
+      "dependencies": {
+        "com.vrchat.avatars": "3.2.x"
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.20",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.1.2"
+      }
+    },
+    "vrchat.jordo.easyquestswitch": {
+      "version": "1.2.1",
+      "dependencies": {}
+    },
+    "dev.onevr.vrworldtoolkit": {
+      "version": "2.1.4",
+      "dependencies": {
+        "com.vrchat.base": "3.1.x"
+      }
+    },
+    "com.llealloo.audiolink": {
+      "version": "0.3.2",
+      "dependencies": {}
+    }
+  }
+}

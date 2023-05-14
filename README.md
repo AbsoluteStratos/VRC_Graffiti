@@ -9,7 +9,7 @@
 <div align="center">
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![Latest VRC SDK version tested. Future/Backward compatability likley, but not officially supported](https://img.shields.io/badge/VRChat%20SDK-3.1.13-blue)](https://docs.vrchat.com/docs/choosing-your-sdk)
+[![Latest VRC SDK version tested. Future/Backward compatability likley, but not officially supported](https://img.shields.io/badge/VRChat%20SDK-3.2.0-blue)](https://docs.vrchat.com/docs/choosing-your-sdk)
 [![Supported platforms (Quest / PC)](https://img.shields.io/badge/platform-PC%20Only-blue)](https://docs.vrchat.com/docs/quest-content-limitations)
 [![Performance rating this prefab will have on your VRC avatar.](https://img.shields.io/badge/avatar%20performance-Poor-orange)](https://docs.vrchat.com/docs/avatar-performance-ranking-system)
 [![Repository Liscense: MIT](https://img.shields.io/github/license/AbsoluteStratos/VRC_Graffiti)](https://github.com/AbsoluteStratos/VRC_Graffiti/blob/main/LICENSE)
@@ -43,7 +43,9 @@ The installation of the VRC graffiti can takes just a few steps:
     * Expression parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
     * FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
 
-If you already have some custom controls / animations, adjust the last step accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu). I'm assuming you know what you're doing at this point.
+If you already have some custom controls / animations, adjust the last step accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu). 
+You should probably be using VRLabs Avatar Manager. 
+I'm assuming you know what you're doing at this point.
 
 ## Controls
 <div align="center">

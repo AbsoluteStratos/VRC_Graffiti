@@ -73,3 +73,4 @@ crashlytics-build.properties
 
 /Blender
 /Assets/Avatar_Model
+/Packages/com.*
