@@ -73,8 +73,8 @@ Customizing your tags takes only three steps:
 | Does this work in any VRC world on any object?
 
 *Generally* speaking yes, but not transparent objects. 
-Anything that with a opaque material should work fine.
-This is also completely not functional in some worlds though.
+Anything that with an opaque material should work fine.
+Additionally, this will fail to function entirely in some worlds.
 If you're on a popular world where it doesnt work, drop a comment on the [open issue](https://github.com/AbsoluteStratos/VRC_Graffiti/issues/1) with the world name.
 
 | Why does it make my avatar poor? Is there a way to get around this?
