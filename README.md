@@ -35,11 +35,11 @@ The installation of the VRC graffiti can is simple!
 4. Add the prefab `Assets/VRC_Graffiti/VRC_Graffiti.prefab` to the root of your avatar.
 5. Inside the prefab on your avatar, *Enable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` to make the spray can visible.
 6. Parent the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` to the body part you want on your avatar (for hand use the wrist target).
-7. Adjust the location/rotation of the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel` in a way that makes sense for your avatar (make sure the can is facing the right way).
+7. Adjust the location/rotation/scale of the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel` in a way that makes sense for your avatar (make sure the can is facing the right way).
 8. *Disable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` once your done.
 9. Update the following avatar properties:
     * Expression menu with `Assets/VRC_Graffiti/VRC_Graffiti_Menu.asset`
-    * Parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
+    * Expression parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
     * FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
 
 If you already have some custom controls / animations, adjust step 5 accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu).
