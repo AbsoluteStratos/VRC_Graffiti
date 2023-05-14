@@ -28,7 +28,7 @@ Supports three different tag slots that are easily customizable with any graphic
 The installation of the VRC graffiti can is simple!
 
 1. Backup your avatar.
-2. Download the latest prefab file from the Github [release page](https://github.com/AbsoluteStratos/VRC_Graffiti/releases).
+2. Download the latest `VRC_Graffiti.unitypackage` file from the Github [release page](https://github.com/AbsoluteStratos/VRC_Graffiti/releases).
 3. Drag it into your Unity project which should create a `Assets/VRC_Graffiti` folder.
 4. Add the prefab `Assets/VRC_Graffiti/VRC_Graffiti.prefab` to the root of your avatar.
 5. Inside the prefab on your avatar, *Enable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` to make the spray can visible.
