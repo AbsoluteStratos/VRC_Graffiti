@@ -27,7 +27,7 @@ Has customizable size control and togglable sound effects.
 </div>
 
 ## Installation
-The installation of the VRC graffiti can is simple!
+The installation of the VRC graffiti can takes just a few steps:
 
 1. Backup your avatar.
 2. Download the latest `VRC_Graffiti.unitypackage` file from the Github [release page](https://github.com/AbsoluteStratos/VRC_Graffiti/releases).
@@ -42,7 +42,7 @@ The installation of the VRC graffiti can is simple!
     * Expression parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
     * FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
 
-If you already have some custom controls / animations, adjust last step accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu). I'm assuming you know what you're doing.
+If you already have some custom controls / animations, adjust the last step accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu). I'm assuming you know what you're doing at this point.
 
 ## Controls
 <div align="center">
