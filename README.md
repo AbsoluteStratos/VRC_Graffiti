@@ -64,7 +64,7 @@ With the graffiti can active, use the following gesture controls (any hand):
 Customizing your tags takes only three steps:
 
 1. Add the the image you want to be your tag to your Unity project (I recommend the tag folder under `VRC_Graffiti/Materials/Tags`). Create a copy of the image for the menu icon.
-2. For the tag slot of your choosing (1-3), replace the texture on the tag decal object located under `VRCGraffiti/GraffitiAnchor/Tags/DecalTag#` in the prefab on your avatar.
+2. For the tag slot of your choosing (1-3), replace the texture on the tag decal object material located under `VRC_Graffiti/GraffitiAnchor/Tags/DecalTag#` in the prefab on your avatar.
 3. Update the icon of the tag you editted in the `VRC_Graffiti/VRC_Graffiti_Tag_Menu.asset` file.
 
 ## F.A.Q.
