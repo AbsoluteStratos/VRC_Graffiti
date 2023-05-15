@@ -55,6 +55,17 @@ MonoBehaviour:
     subParameters:
     - name: Graffiti Tag Height
     labels: []
+  - name: Distance
+    icon: {fileID: 2800000, guid: 26db3a7bd41fb504099824b9dd9528cd, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Graffiti Tag Distance
+    labels: []
   - name: Audio
     icon: {fileID: 2800000, guid: 7fcdc6a29db83b642b68a5e64bba37b0, type: 3}
     type: 102

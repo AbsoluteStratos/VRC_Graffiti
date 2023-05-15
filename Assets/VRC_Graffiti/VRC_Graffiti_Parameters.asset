@@ -38,6 +38,11 @@ MonoBehaviour:
     saved: 0
     defaultValue: 0
     networkSynced: 1
+  - name: Graffiti Tag Distance
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 1
   - name: Graffiti Audio
     valueType: 2
     saved: 0
