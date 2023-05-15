@@ -33,7 +33,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/GraffitiObject/Audio/Spray
       Source 3
     classID: 1
     script: {fileID: 0}
@@ -46,7 +46,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 3983279006
+      path: 2463502134
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
@@ -90,7 +90,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel/Audio/Spray
+    path: VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/GraffitiObject/Audio/Spray
       Source 3
     classID: 1
     script: {fileID: 0}

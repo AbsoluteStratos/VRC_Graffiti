@@ -38,7 +38,7 @@ If you are familiar with avatar creation, the condensed installation process fol
 4. Add the prefab `Assets/VRC_Graffiti/VRC_Graffiti.prefab` to the root of your avatar.
 5. Inside the prefab on your avatar, *Enable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` to make the spray can visible.
 6. Set the source of the parent constraint on the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` to the body part you want on your avatar (for hand use the wrist target).
-7. Adjust the location/rotation/scale of the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel` in a way that makes sense for your avatar (make sure the can is facing the right way).
+7. Adjust the location/rotation/scale of the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/GraffitiObject` in a way that makes sense for your avatar (make sure the can is facing the right way).
 8. *Disable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` once your done.
 9. If you already have your avatar set up with custom expressions you should probably be using [VRLabs Avatar Manager](https://github.com/VRLabs/Avatars-3.0-Manager) to help with this step. Update / Append the following avatar properties:
     * Add expression sub-menu with `Assets/VRC_Graffiti/VRC_Graffiti_Menu.asset`
@@ -69,6 +69,8 @@ Customizing your tags takes only three steps:
 1. Add the the image you want to be your tag to your Unity project (I recommend the tag folder under `VRC_Graffiti/Materials/Tags`). Create a copy of the image for the menu icon.
 2. For the tag slot of your choosing (1-3), replace the texture on the tag decal object material located under `VRC_Graffiti/GraffitiAnchor/Tags/DecalTag#` in the prefab on your avatar.
 3. Update the icon of the tag you editted in the `VRC_Graffiti/VRC_Graffiti_Tag_Menu.asset` file.
+
+To customize the graffiti can model change the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/GraffitiObject/VRCSprayCanModel`.
 
 ## F.A.Q.
 
