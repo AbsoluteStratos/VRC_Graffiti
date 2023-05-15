@@ -28,7 +28,9 @@ Has customizable size control and togglable sound effects.
 </div>
 
 ## Installation
-The installation of the VRC graffiti can takes just a few steps:
+
+A detailed step by step guide can be found in the [INSTALL.md](./docs/INSTALL.md).
+If you are familiar with avatar creation, the condensed installation process follows:
 
 1. Backup your avatar.
 2. Download the latest `VRC_Graffiti.unitypackage` file from the Github [release page](https://github.com/AbsoluteStratos/VRC_Graffiti/releases).
@@ -38,14 +40,10 @@ The installation of the VRC graffiti can takes just a few steps:
 6. Set the source of the parent constraint on the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` to the body part you want on your avatar (for hand use the wrist target).
 7. Adjust the location/rotation/scale of the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/VRCSprayCanModel` in a way that makes sense for your avatar (make sure the can is facing the right way).
 8. *Disable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` once your done.
-9. Update the following avatar properties:
-    * Expression menu with `Assets/VRC_Graffiti/VRC_Graffiti_Menu.asset`
-    * Expression parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
-    * FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
-
-If you already have some custom controls / animations, adjust the last step accordingly (e.g. add the `VRC_Graffiti_Menu` as a sub-menu to your existing expression menu). 
-You should probably be using VRLabs Avatar Manager. 
-I'm assuming you know what you're doing at this point.
+9. If you already have your avatar set up with custom expressions you should probably be using [VRLabs Avatar Manager](https://github.com/VRLabs/Avatars-3.0-Manager) to help with this step. Update / Append the following avatar properties:
+    * Add expression sub-menu with `Assets/VRC_Graffiti/VRC_Graffiti_Menu.asset`
+    * Update expression parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
+    * Update FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
 
 ## Controls
 <div align="center">
@@ -90,6 +88,11 @@ The light, "DepthLight", can be removed but at the cost of limiting functionalit
 
 Odds are yes, the shield up top indicates which verion I have personally tested but compatability with newer/older versions is very likely but not "officially" supported.
 
+## Roadmap
+
+ - Add detailed install guide with screen shots
+ - Add distance control of tags
+ - Add install video
 
 ## Contact / Support
 
