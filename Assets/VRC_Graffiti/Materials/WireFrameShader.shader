@@ -34,7 +34,7 @@ Shader "Custom/WireFrameShader"
 			#pragma fragment frag
 
 			#include "UnityCG.cginc"
-			#include "Wireframe.cginc"
+			#include "WireFrame.cginc"
 
 			ENDCG
 		}
