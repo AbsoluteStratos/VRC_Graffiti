@@ -90,6 +90,10 @@ The light, "DepthLight", can be removed but at the cost of limiting functionalit
 
 Odds are yes, the shield up top indicates which verion I have personally tested but compatability with newer/older versions is very likely but not "officially" supported.
 
+| Are these animations 'Write Defaults' on or off?
+
+Developed for 'Write Defaults' off.
+
 ## Roadmap
 
  - Add detailed install guide with screen shots
