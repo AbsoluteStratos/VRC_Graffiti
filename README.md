@@ -93,7 +93,6 @@ Odds are yes, the shield up top indicates which verion I have personally tested 
 ## Roadmap
 
  - Add detailed install guide with screen shots
- - Add distance control of tags
  - Add install video
 
 ## Contact / Support
