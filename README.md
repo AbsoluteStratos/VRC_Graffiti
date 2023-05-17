@@ -16,7 +16,7 @@
 
 </div>
 
-A fully functional graffiti can for avatars in VRChat. 
+A fully functional graffiti can for avatars in VRChat using *any* images of your choosing. 
 This prefab allows you to tag any opaque object in a VR chat world, even your friends.
 Supports three different tag slots that are easily customizable with any graphic of your choosing.
 Has customizable size control and togglable sound effects.
@@ -28,9 +28,7 @@ Has customizable size control and togglable sound effects.
 </div>
 
 ## Installation
-
-A detailed step by step guide can be found in the [INSTALL.md](./docs/INSTALL.md).
-If you are familiar with avatar creation, the condensed installation process follows:
+The condensed installation process follows:
 
 1. Backup your avatar.
 2. Download the latest `VRC_Graffiti.unitypackage` file from the Github [release page](https://github.com/AbsoluteStratos/VRC_Graffiti/releases).
@@ -44,6 +42,8 @@ If you are familiar with avatar creation, the condensed installation process fol
     * Add expression sub-menu with `Assets/VRC_Graffiti/VRC_Graffiti_Menu.asset`
     * Update expression parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
     * Update FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
+
+A detailed step by step guide with screen shots can be found in the [INSTALL.md](./docs/INSTALL.md).
 
 ## Controls
 <div align="center">
@@ -64,21 +64,22 @@ With the graffiti can active, use the following gesture controls (any hand):
 
 ## Customize
 
+The best part of this prefab is customizing your tags with any image you want such as memes, photos, graffiti, etc.
 Customizing your tags takes only three steps:
 
 1. Add the the image you want to be your tag to your Unity project (I recommend the tag folder under `VRC_Graffiti/Materials/Tags`). Create a copy of the image for the menu icon.
 2. For the tag slot of your choosing (1-3), replace the texture on the tag decal object material located under `VRC_Graffiti/GraffitiAnchor/Tags/DecalTag#` in the prefab on your avatar.
 3. Update the icon of the tag you editted in the `VRC_Graffiti/VRC_Graffiti_Tag_Menu.asset` file.
 
+A more detailed guide with screenshots can be found in the [CUSTOMIZE.md](./docs/CUSTOMIZE.md).
 To customize the graffiti can model change the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/GraffitiObject/VRCSprayCanModel`.
 
 ## F.A.Q.
 
 | Does this work in any VRC world on any object?
 
-*Generally* speaking yes, but not transparent objects. 
-Anything that with an opaque material should work fine.
-Additionally, this will fail to function entirely in some worlds.
+*Generally* speaking yes, anything that with an opaque material should work fine.
+Note, its been observed this prefab will fail to function entirely in some worlds.
 If you're on a popular world where it doesnt work, drop a comment on the [open issue](https://github.com/AbsoluteStratos/VRC_Graffiti/issues/1) with the world name.
 
 | Why does it make my avatar poor? Is there a way to get around this?
@@ -96,6 +97,7 @@ Developed for 'Write Defaults' off.
 
 ## Roadmap
 
+ - Liscense headers for code
  - Add detailed install guide with screen shots
  - Add install video
 
