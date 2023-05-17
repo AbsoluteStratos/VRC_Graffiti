@@ -1,18 +1,3 @@
-<style>
-table .preview {
-    width: 100%;
-    vertical-align: top;
-    text-align: center;
-}
-table .content {
-    /* width: 50%; */
-    text-align: center;
-}
-table img {
-    max-height: 300px;
-}
-</style>
-
 # VRC Graffiti Can Install Guide
 
 This is a detailed install guide for those that are maybe newer to unity / avatar creation.

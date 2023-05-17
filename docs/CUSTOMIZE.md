@@ -1,18 +1,3 @@
-<style>
-table .preview {
-    width: 100%;
-    vertical-align: top;
-    text-align: center;
-}
-table .content {
-    /* width: 50%; */
-    text-align: center;
-}
-table img {
-    max-height: 300px;
-}
-</style>
-
 # VRC Graffiti Can Tag Customization Guide
 
 The best part of this prefab is customizing the tags with any image you want. 
