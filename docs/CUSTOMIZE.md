@@ -60,11 +60,10 @@ Thats it, you should be ready to upload.
 
 <table>
 <tr>
-<th></th><th>A</th><th>B</th><th></th>
+<th>A</th><th>B</th>
 </tr>
 <tr>
-<td style="width:5%"></td>
-<td class = "content" style="width:60%">
+<td class = "content" style="width:70%">
 
 ![](./customize_tag_menu.png)
 
@@ -74,6 +73,5 @@ Thats it, you should be ready to upload.
 ![](./customize_tag_menu_icon.png)
 
 </td>
-<td style="width:5%"></td>
 </tr>
 </table>
