@@ -11,7 +11,7 @@ This should be (close to) the default layout.
 Prior to starting this you should have your avatar added with a VRC avatar descriptor attached.
 If you're not too familiar with Unity, I would suggest setting things up in a similar way.
 
-![](./install_setup.png)
+![](./annotated/install_setup.png)
 
 ## Step 0 Back Up Your Avatar
 Do it.
@@ -28,7 +28,7 @@ Inside `Assets/VRC_Graffiti` find the `VRC_Graffiti` prefab and add this to the 
 <tr>
 <td class = "preview">
 
-![](./install_setup_1.png)
+![](./annotated/install_setup_1.png)
 
 </td>
 </tr>
@@ -41,22 +41,22 @@ Inside `Assets/VRC_Graffiti` find the `VRC_Graffiti` prefab and add this to the 
 <tr>
 <td class = "content" style="width:20%">
 
-![](./install_imports.png)
+![](./annotated/install_imports.png)
 
 </td>
 <td class = "content" style="width:30%">
 
-![](./install_folder_menus.png)
+![](./annotated/install_folder_menus.png)
 
 </td>
 <td class = "content" style="width:30%">
 
-![](./install_folder_prefab.png)
+![](./annotated/install_folder_prefab.png)
 
 </td>
 <td class = "content" style="width:20%">
 
-![](./install_prefab.png)
+![](./annotated/install_prefab.png)
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ This can be easily done by just dragging the bone of interest in your armature i
 <tr>
 <td class = "preview">
 
-![](./install_setup_2.png)
+![](./annotated/install_setup_2.png)
 
 </td>
 </tr>
@@ -85,22 +85,22 @@ This can be easily done by just dragging the bone of interest in your armature i
 <tr>
 <td class = "content" style="width:20%">
 
-![](./install_can_holder.png)
+![](./annotated/install_can_holder.png)
 
 </td>
 <td class = "content" style="width:30%">
 
-![](./install_can_holder_enable.png)
+![](./annotated/install_can_holder_enable.png)
 
 </td>
 <td class = "content" style="width:20%">
 
-![](./install_can_holder_armature.png)
+![](./annotated/install_can_holder_armature.png)
 
 </td>
 <td class = "content" style="width:30%">
 
-![](./install_can_holder_parent.png)
+![](./annotated/install_can_holder_parent.png)
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ Once your happy with its position *disable* `VRC_Graffiti/GraffitiAnchor/Graffit
 <tr>
 <td class = "preview">
 
-![](./install_setup_3.png)
+![](./annotated/install_setup_3.png)
 
 </td>
 </tr>
@@ -130,27 +130,27 @@ Once your happy with its position *disable* `VRC_Graffiti/GraffitiAnchor/Graffit
 <tr>
 <td class = "content" style="width:15%">
 
-![](./install_can_object.png)
+![](./annotated/install_can_object.png)
 
 </td>
 <td class = "content" style="width:20%">
 
-![](./install_can_object_translate.png)
+![](./annotated/install_can_object_translate.png)
 
 </td>
 <td class = "content" style="width:30%">
 
-![](./install_can_transform_front.png)
+![](./annotated/install_can_transform_front.png)
 
 </td>
 <td class = "content" style="width:15%">
 
-![](./install_can_holder.png)
+![](./annotated/install_can_holder.png)
 
 </td>
 <td class = "content" style="width:20%">
 
-![](./install_can_holder_disable.png)
+![](./annotated/install_can_holder_disable.png)
 
 </td>
 </tr>
@@ -166,13 +166,13 @@ Populate the following fields attributes of your avatar descriptor:
 * Add FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
 
 That should be it, if you followed these steps correctly you should be ready to upload. 
-If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./CUSTOMIZE.md) for more detailed instructions than the readme.
+If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./annotated/CUSTOMIZE.md) for more detailed instructions than the readme.
 
 <table style="width:100%">
 <tr>
 <td class = "preview">
 
-![](./install_setup_4.png)
+![](./annotated/install_setup_4.png)
 
 </td>
 </tr>
@@ -186,17 +186,17 @@ If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./CUSTOMI
 <tr>
 <td class = "content" style="width:20%">
 
-![](./install_fx_expressions.png)
+![](./annotated/install_fx_expressions.png)
 
 </td>
 <td class = "content" style="width:60%">
 
-![](./install_folder_fx.png)
+![](./annotated/install_folder_fx.png)
 
 </td>
 <td class = "content" style="width:20%">
 
-![](./install_fx_expressions_added.png)
+![](./annotated/install_fx_expressions_added.png)
 
 </td>
 </tr>
@@ -213,7 +213,7 @@ You can open this from the top menu.
 <tr>
 <td class = "preview">
 
-![](./install_setup_5.png)
+![](./annotated/install_setup_5.png)
 
 </td>
 </tr>
@@ -224,7 +224,7 @@ You can open this from the top menu.
 <td style="width:20%"></td>
 <td style="width:60%">
 
-![](./install_avatar_manager_open.png)
+![](./annotated/install_avatar_manager_open.png)
 
 </td>
 <td style="width:20%"></td>
@@ -246,22 +246,22 @@ Drag in the `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset` into the "Parame
 <tr>
 <td class = "content" style="width:25%">
 
-![](./install_avatar_manager_fx.png)
+![](./annotated/install_avatar_manager_fx.png)
 
 </td>
 <td class = "content" style="width:25%">
 
-![](./install_avatar_manager_fx_complete.png)
+![](./annotated/install_avatar_manager_fx_complete.png)
 
 </td>
 <td class = "content" style="width:25%">
 
-![](./install_avatar_manager_parameter.png)
+![](./annotated/install_avatar_manager_parameter.png)
 
 </td>
 <td class = "content" style="width:25%">
 
-![](./install_avatar_manager_parameter_complete.png)
+![](./annotated/install_avatar_manager_parameter_complete.png)
 
 </td>
 </tr>
@@ -276,7 +276,7 @@ That should be it, hopefully you're ready for upload.
 <tr>
 <td class = "preview">
 
-![](./install_setup_6.png)
+![](./annotated/install_setup_6.png)
 
 </td>
 </tr>
@@ -290,17 +290,17 @@ That should be it, hopefully you're ready for upload.
 <tr>
 <td class = "content" style="width:20%">
 
-![](./install_fx_expressions_existing.png)
+![](./annotated/install_fx_expressions_existing.png)
 
 </td>
 <td class = "content" style="width:50%">
 
-![](./install_expression_menu_icon.png)
+![](./annotated/install_expression_menu_icon.png)
 
 </td>
 <td class = "content" style="width:30%">
 
-![](./install_expression_menu_existing.png)
+![](./annotated/install_expression_menu_existing.png)
 
 </td>
 </tr>

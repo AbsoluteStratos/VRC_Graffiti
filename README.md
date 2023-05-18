@@ -1,6 +1,6 @@
 <div align="center">
 
-![](./docs/banner.png)
+![](./docs/readme/banner.png)
 
 </div>
 
@@ -23,7 +23,7 @@ Has customizable size control and togglable sound effects.
 
 <div align="center">
 
-![](./docs/GraffitiDemo.gif)
+![](./docs/readme/GraffitiDemo.gif)
 
 </div>
 
@@ -48,7 +48,7 @@ A detailed step by step guide with screen shots can be found in the [INSTALL.md]
 ## Controls
 <div align="center">
 
-![](./docs/controls_banner.png)
+![](./docs/readme/controls_banner.png)
 
 </div>
 
@@ -58,7 +58,7 @@ With the graffiti can active, use the following gesture controls (any hand):
 
 | Toggle Guide (Point)     | Apply Tag (Thumbs Up) |
 | ----------- | ----------- |
-| ![](./docs/gesture1.png)      | ![](./docs/gesture2.png)       |
+| ![](./docs/readme/gesture1.png)      | ![](./docs/readme/gesture2.png)       |
 
 </div>
 
