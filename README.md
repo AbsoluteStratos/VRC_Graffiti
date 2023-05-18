@@ -97,7 +97,6 @@ Developed for 'Write Defaults' off.
 
 ## Roadmap
 
- - Customization guide
  - Liscense headers for code
 
 ## Contact / Support

@@ -1,17 +1,17 @@
 # VRC Graffiti Can Install Guide
 
-This is a detailed install guide for those that are maybe newer to unity / avatar creation.
+This is a detailed install guide for those that are maybe newer to Unity / avatar creation.
 Once you've done this once, following the steps in the [README.md](../README.md) should be straight forward.
 
-Though out the tutorial click on an image to see the enlarged version. This may help to find something you're struggling to see.
+Through out the tutorial click on an image to see the enlarged version. This may help to find something you're struggling to see.
 
 ## Unity Setup
-For consistency, this is the layout my unity editor is in for this tutorial.
+For consistency, this is the layout my Unity editor is in for this tutorial.
 This should be (close to) the default layout.
 Prior to starting this you should have your avatar added with a VRC avatar descriptor attached.
 If you're not too familiar with Unity, I would suggest setting things up in a similar way.
 
-![](./annotated/install_setup.png)
+![](./source/install_setup.png)
 
 ## Step 0 Back Up Your Avatar
 Do it.
@@ -64,9 +64,9 @@ Inside `Assets/VRC_Graffiti` find the `VRC_Graffiti` prefab and add this to the 
 
 ## Step 2 Parenting the Spray Can
 Inside the prefab on your avatar, *Enable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` to make the spray can visible.
-Now we need to bind the spray can to your avatar so it moved with your body.
+Now we need to bind the spray can to your avatar so it moves with your body.
 Set the source of the parent constraint on the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` to the body part you want on your avatar.
-This can be easily done by just dragging the bone of interest in your armature into the parent constrant property of the `GraffitiCanHolder`.
+This can be easily done by just dragging the bone of interest in your armature into the parent constraint property of the `GraffitiCanHolder`.
 
 <table style="width:100%">
 <tr>
@@ -109,7 +109,7 @@ This can be easily done by just dragging the bone of interest in your armature i
 
 ## Step 3 Transform Spray Can Position
 Adjust the location/rotation/scale of the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/GraffitiObject` in a way that makes sense for your avatar (make sure the can is facing the right way).
-This object is NOT the one you just parented, its on tier down.
+This object is NOT the one you just parented, its a tier down.
 Keep an eye out for the nozzle of spray can to indicate the front ward direction (you want this pointing away from you).
 Once your happy with its position *disable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` (NOT `GraffitiObject`, this should stay enabled underneath).
 
@@ -157,16 +157,16 @@ Once your happy with its position *disable* `VRC_Graffiti/GraffitiAnchor/Graffit
 </table>
 
 ## Step 4 Assign Avatar Properties
-**If you already have a FX controls, avatar parameters or an expressions menu, skip to *Step 4 Update Avatar Properties* below.**
+**If you already have a FX layer, avatar parameters or an expressions menu, skip to *Step 4 Update Avatar Properties* below.**
 In the case you have none of these, the last step is easy. 
 Populate the following fields attributes of your avatar descriptor:
 
 * Add expression sub-menu with `Assets/VRC_Graffiti/VRC_Graffiti_Menu.asset`
 * Add expression parameters with `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset`
-* Add FX graph with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
+* Add FX layer with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
 
-That should be it, if you followed these steps correctly you should be ready to upload. 
-If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./annotated/CUSTOMIZE.md) for more detailed instructions than the readme.
+That should be it, if you've followed these steps correctly you should be ready to upload. 
+If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./annotated/CUSTOMIZE.md) for more detailed instructions than the [README.md](../README.md).
 
 <table style="width:100%">
 <tr>
@@ -204,10 +204,10 @@ If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./annotat
 
 
 ## Step 4 Update Avatar Properties
-The following steps are for users that already have their avatar set up and need to simply append their FX, Parameters and expressions menu.
+The following steps are for users that already have their avatar set up and need to simply append their FX layer, parameters and expressions menu.
 For the first two, I will be using the [VRLabs avatar manager](https://github.com/VRLabs/Avatars-3.0-Manager) which comes with the Avatar 3.0 setup using the [Creator Companion](https://vcc.docs.vrchat.com/).
 If you are not using the creator companion, you probably should be.
-You can open this from the top menu.
+You can open the avatar manager from the top menu.
 
 <table style="width:100%">
 <tr>
@@ -235,7 +235,7 @@ You can open this from the top menu.
 ### Step 4a Avatar Manager
 With the avatar manager open the next step is to add the `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset` to your existing FX layer.
 Add your avatar descriptor to the top of the manager, then click "Add Animator to Merge" which should bring up a slot for you to drag in the VRC Graffiti controller.
-Click "Merge to Current" and the animation controller for VRC Graffiti should be added to your FX controller.
+Click "Merge to Current" and the animation controller for VRC Graffiti should be added to your FX layer controller.
 
 Next switch to the expressions parameter tab in the avatar manager.
 Drag in the `Assets/VRC_Graffiti/VRC_Graffiti_Parameters.asset` into the "Parameters to copy" slot and then click "Copy Parameters".
