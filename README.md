@@ -105,3 +105,8 @@ If you find an issue / bug, have a feature request or have a question, create an
 Support isn't guaranteed, but its the best way to get into contact with me.
 
 *If you enjoy this project, support my work by simply starring this repo! Thanks Spartan!*
+
+## Acknowledgements
+
+- Alpharaka for beta testing
+- Sippbox for concise tutorials
