@@ -46,7 +46,7 @@ Inside `Assets/VRC_Graffiti` find the `VRC_Graffiti` prefab and add this to the 
 </td>
 <td class = "content" style="width:30%">
 
-![](./annotated/install_folder_menus.png)
+![](./annotated/install_folder.png)
 
 </td>
 <td class = "content" style="width:30%">
@@ -221,13 +221,14 @@ You can open this from the top menu.
 
 <table style="width:100%">
 <tr>
-<td style="width:20%"></td>
+<th>A</th>
+</tr>
+<tr>
 <td style="width:60%">
 
 ![](./annotated/install_avatar_manager_open.png)
 
 </td>
-<td style="width:20%"></td>
 </tr>
 </table>
 

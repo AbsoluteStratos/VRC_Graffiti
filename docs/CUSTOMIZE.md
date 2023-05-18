@@ -13,7 +13,7 @@ For the tag slot of your choosing (1-3), replace the texture on the tag decal ob
 <tr>
 <td class = "preview">
 
-![](./customize_setup_1.png)
+![](./annotated/customize_setup_1.png)
 
 </td>
 </tr>
@@ -26,17 +26,17 @@ For the tag slot of your choosing (1-3), replace the texture on the tag decal ob
 <tr>
 <td class = "content" style="width:50%">
 
-![](./customize_decal_texture.png)
+![](./annotated/customize_decal_texture.png)
 
 </td>
 <td class = "content" style="width:25%">
 
-![](./customize_decal_1.png)
+![](./annotated/customize_decal_1.png)
 
 </td>
 <td class = "content" style="width:25%">
 
-![](./customize_decal_1_material.png)
+![](./annotated/customize_decal_1_material.png)
 
 </td>
 </tr>
@@ -52,7 +52,7 @@ Thats it, you should be ready to upload.
 <tr>
 <td class = "preview">
 
-![](./customize_setup_2.png)
+![](./annotated/customize_setup_2.png)
 
 </td>
 </tr>
@@ -65,12 +65,12 @@ Thats it, you should be ready to upload.
 <tr>
 <td class = "content" style="width:70%">
 
-![](./customize_tag_menu.png)
+![](./annotated/customize_tag_menu.png)
 
 </td>
 <td class = "content" style="width:30%">
 
-![](./customize_tag_menu_icon.png)
+![](./annotated/customize_tag_menu_icon.png)
 
 </td>
 </tr>

@@ -97,9 +97,8 @@ Developed for 'Write Defaults' off.
 
 ## Roadmap
 
+ - Customization guide
  - Liscense headers for code
- - Add detailed install guide with screen shots
- - Add install video
 
 ## Contact / Support
 
