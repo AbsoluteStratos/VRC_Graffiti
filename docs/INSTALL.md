@@ -206,6 +206,7 @@ If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./annotat
 ## Step 4 Update Avatar Properties
 The following steps are for users that already have their avatar set up and need to simply append their FX layer, parameters and expressions menu.
 For the first two, I will be using the [VRLabs avatar manager](https://github.com/VRLabs/Avatars-3.0-Manager) which comes with the Avatar 3.0 setup using the [Creator Companion](https://vcc.docs.vrchat.com/).
+I am using version 2.0.20 at the time of writing this.
 If you are not using the creator companion, you probably should be.
 You can open the avatar manager from the top menu.
 
