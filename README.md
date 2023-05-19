@@ -95,10 +95,6 @@ Odds are yes, the shield up top indicates which verion I have personally tested 
 
 Developed for 'Write Defaults' off.
 
-## Roadmap
-
- - Liscense headers for code
-
 ## Contact / Support
 
 If you find an issue / bug, have a feature request or have a question, create an issue on this repo.
