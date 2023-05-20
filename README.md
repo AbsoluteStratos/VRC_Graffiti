@@ -16,7 +16,7 @@
 
 </div>
 
-A fully functional graffiti can for avatars in VRChat using *any* images of your choosing. 
+A fully functional graffiti can for avatars in VR chat. 
 This prefab allows you to tag any opaque object in a VR chat world, even your friends.
 Supports three different tag slots that are easily customizable with any graphic of your choosing.
 Has customizable size control and togglable sound effects.
