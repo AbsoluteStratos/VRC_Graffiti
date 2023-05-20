@@ -166,7 +166,7 @@ Populate the following fields attributes of your avatar descriptor:
 * Add FX layer with `Assets/VRC_Graffiti/VRC_Graffiti_Controller.asset`
 
 That should be it, if you've followed these steps correctly you should be ready to upload. 
-If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./annotated/CUSTOMIZE.md) for more detailed instructions than the [README.md](../README.md).
+If you want customize your graffiti tags have a look at [CUSTOMIZE.md](./CUSTOMIZE.md) for more detailed instructions than the [README.md](../README.md).
 
 <table style="width:100%">
 <tr>
