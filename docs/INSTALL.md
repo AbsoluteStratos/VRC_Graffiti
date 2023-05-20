@@ -108,7 +108,7 @@ This can be easily done by just dragging the bone of interest in your armature i
 
 
 ## Step 3 Transform Spray Can Position
-Adjust the location/rotation/scale of the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/GraffitiObject` in a way that makes sense for your avatar (make sure the can is facing the right way).
+Adjust the location/rotation/scale of the game object `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder/GraffitiObject` in a way that makes sense for your avatar.
 This object is NOT the one you just parented, its a tier down.
 Keep an eye out for the nozzle of spray can to indicate the frontward direction (you want this pointing away from you).
 Once your happy with its position *disable* `VRC_Graffiti/GraffitiAnchor/GraffitiCanHolder` (NOT `GraffitiObject`, this should stay enabled underneath).
