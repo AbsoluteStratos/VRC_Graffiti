@@ -95,6 +95,10 @@ Odds are yes, the shield up top indicates which verion I have personally tested 
 
 Developed for 'Write Defaults' off.
 
+| Why don't the tags work with shadows / fog / etc?
+
+They are unlit shaders right now, may get around to updating them to lit if there is an ask.
+
 ## Contact / Support
 
 If you find an issue / bug, have a feature request or have a question, create an issue on this repo.
