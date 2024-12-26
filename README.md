@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Project Status:Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#active)
 [![Latest VRC SDK version tested. Future/Backward compatability likley, but not officially supported](https://img.shields.io/badge/VRChat%20SDK-3.2.0-blue)](https://docs.vrchat.com/docs/choosing-your-sdk)
 [![Supported platforms (Quest / PC)](https://img.shields.io/badge/platform-PC%20Only-blue)](https://docs.vrchat.com/docs/quest-content-limitations)
 [![Performance rating this prefab will have on your VRC avatar.](https://img.shields.io/badge/avatar%20performance-Poor-orange)](https://docs.vrchat.com/docs/avatar-performance-ranking-system)
